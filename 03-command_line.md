@@ -70,8 +70,8 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-Xargs reads data from standard input and executes the command one or more times based on the input that is read. An example of this would be:
-'xargs find -name'
+Xargs reads data from standard input and executes the command one or more times based on the input that is read. An example of this would be:  
+`xargs find -name`  
 Using the above command, you can then feed input that will automatically search the current directory for files of that name. If you enter "*.py", it will return all python files from the current directory.
  
 
