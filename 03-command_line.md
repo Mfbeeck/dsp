@@ -20,16 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-'pwd': show current working directory path
-'mkdir dirname': make directory
-'rm dir': deleting a directory
-'touch filename': creating a file using `touch` command
-'rm filename': deleting a file
-'mv oldname newname': renaming a file
-'ls -a': listing hidden files
-'cp filename directory_path': copying a file from one directory to another
-'cd ..': change directory up one directory
-'ls': list all files in current directory
+`pwd`: show current working directory path  
+`mkdir dirname`: make directory  
+`rm dir`: deleting a directory  
+`touch filename`: creating a file using touch command  
+`rm filename`: deleting a file  
+`mv oldname newname`: renaming a file  
+`ls -a`: listing hidden files  
+`cp filename directory_path`: copying a file from one directory to another  
+`cd ..`: change directory up one directory  
+`ls`: list all files in current directory  
 
 ---
 
@@ -44,13 +44,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-`ls`: show all files in current directory 
-`ls -a`: list all files including hidden files
-`ls -l`: list with long format including permissions
-`ls -lh`: list with long format and readable file size
-`ls -lah`: list with long format and readable file size and include hidden files   
-`ls -t`: list in order, sorted by time and date
-`ls -Glp`: list in long format and including directory indicator (/) and color coding for directories 
+`ls`: show all files in current directory  
+`ls -a`: list all files including hidden files  
+`ls -l`: list with long format including permissions  
+`ls -lh`: list with long format and readable file size  
+`ls -lah`: list with long format and readable file size and include hidden files  
+`ls -t`: list in order, sorted by time and date  
+`ls -Glp`: list in long format and including directory indicator (/) and color coding for directories  
 
 ---
 
